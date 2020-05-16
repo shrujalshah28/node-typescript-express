@@ -1,6 +1,6 @@
 # Express TypeScript Boilerplate
 
-[![Build Status](https://github.com/peerbits-shrujal/node-typescript-express/workflows/Node%20CI/badge.svg)](https://github.com/peerbits-shrujal/node-typescript-express/actions?workflow=Node%20CI)
+![Node CI](https://github.com/shrujalshah28/node-typescript-express/workflows/Node%20CI/badge.svg)
 
 This repo can be used as a starting point for backend development with Nodejs. It comes bundled with Docker and is CI/CD optimized.
 
