@@ -54,7 +54,7 @@
     "husky": "^4.3.0",
     "jest": "^25.5.4",
     "jest-express": "^1.12.0",
-    "lint-staged": "^10.2.13",
+    "lint-staged": "^10.4.2",
     "nodemon": "^2.0.4",
     "prettier": "^2.0.5",
     "supertest": "^5.0.0",
